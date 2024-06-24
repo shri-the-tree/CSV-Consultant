@@ -1,0 +1,4 @@
+boto3==1.26.142
+streamlit==1.21.0
+langchain==0.0.201  # Ensure this version or a compatible one is used
+pydantic==1.10.6
